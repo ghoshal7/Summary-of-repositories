@@ -1,1 +1,3 @@
 # Summary-of-repositories
+Welcome to the github profile of Gourav Ghoshal. This section contains the summary of various projects undertaken for self-learning, hobby of academic purpose by Gourav. Hope you like visiting...
+# Contents
