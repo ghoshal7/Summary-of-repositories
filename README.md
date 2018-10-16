@@ -3,6 +3,11 @@ Welcome to the github profile of Gourav Ghoshal. This section contains the summa
 # Contents
 - Machine Learning
   * [3rd position in INFORMS national analytics challenge:](https://www.ideaconnection.com/principal-orms-challenge/winners.php) Developed a trading strategy to eliminate human bias in decision making after an extreme effect
+  * [Predicting wind power output:](https://github.com/ghoshal7/Wind-Power-Prediction) Feature engineered environmental parameters and created a hybrid model using support vector machine (SVM) regression and extreme gradient boosting (xgboost) to predict the wind power output with 3.2% RMSE on validation set using 10 fold cross-validation
+  * [Auto identifying fake news from real ones:](https://github.com/ghoshal7/Fake_or_real_news) Digitized text data and implemented various machine learning algorithm to predict fake news and compared the results of the algorithms with each other
+
+- Time Series prediction
+  * [Time series analysis of stock price of ExxonMobil](https://github.com/ghoshal7/Econometric-Time-Series-Analysis-of-stock-price) •	Conducted single and multi-variate time series analysis of stock prices using P/ACF and ARIMA, SARIMA, ARMA and VAR methods, regressed stock price on econometric parameters & developed final predictive model to generate short-time predictions on the test set
 
 - Optimization
   * [Optimum lot sizing problem:](https://github.com/ghoshal7/LP-using-CPLEX) The optimum lot sizing problem under both fixed capacity and varying capacity is formulated using linear and binary integer programming and solved using AMPL CPLEX 
